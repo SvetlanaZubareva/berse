@@ -1,0 +1,1328 @@
+Uri: https://api-maps.yandex.ru/2.1/?lang=ru_RU&ver=2.1
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\2.1\json.txt
+Content Type: application/javascript
+
+Uri: https://berse.ru/
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\index.htm
+Content Type: text/html
+
+Uri: https://berse.ru/дизайне-интерьера-квартиры-103-м²/
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\дизайне-интерьера-квартиры-103-м²\index.htm
+Content Type: text/html
+
+Uri: https://berse.ru/дизайн-двухкомнатной-квартиры-113-м²/
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\дизайн-двухкомнатной-квартиры-113-м²\index.htm
+Content Type: text/html
+
+Uri: https://berse.ru/дизайн-интерьера-коттеджа-550-м²/
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\дизайн-интерьера-коттеджа-550-м²\index.htm
+Content Type: text/html
+
+Uri: https://berse.ru/дизайн-квартиры-со-сложной-планировк/
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\дизайн-квартиры-со-сложной-планировк\index.htm
+Content Type: text/html
+
+Uri: https://berse.ru/дизайн-квартиры-с-террасой-128-м²/
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\дизайн-квартиры-с-террасой-128-м²\index.htm
+Content Type: text/html
+
+Uri: https://berse.ru/дизайн-трехкомнатной-квартиры-1022-м²/
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\дизайн-трехкомнатной-квартиры-1022-м²\index.htm
+Content Type: text/html
+
+Uri: https://berse.ru/интерьер-трехкомнатной-квартиры-103-м²/
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\интерьер-трехкомнатной-квартиры-103-м²\index.htm
+Content Type: text/html
+
+Uri: https://berse.ru/интерьер-трехкомнатной-квартиры-1055-м²/
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\интерьер-трехкомнатной-квартиры-1055-м²\index.htm
+Content Type: text/html
+
+Uri: https://berse.ru/интерьер-трехкомнатной-квартиры-743-м²/
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\интерьер-трехкомнатной-квартиры-743-м²\index.htm
+Content Type: text/html
+
+Uri: https://berse.ru/comments/feed/
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://berse.ru/feed/
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://berse.ru/wp-content/plugins/elementor-pro/assets/css/frontend-lite.min.css?ver=3.9.2
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\plugins\elementor-pro\assets\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: https://berse.ru/wp-content/plugins/elementor-pro/assets/css/widget-call-to-action.min.css
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\plugins\elementor-pro\assets\css\widget-call-to-action.min.css
+Content Type: text/css
+
+Uri: https://berse.ru/wp-content/plugins/elementor-pro/assets/css/widget-nav-menu.min.css
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\plugins\elementor-pro\assets\css\widget-nav-menu.min.css
+Content Type: text/css
+
+Uri: https://berse.ru/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.9.2
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\plugins\elementor-pro\assets\js\elements-handlers.min.js
+Content Type: application/x-javascript
+
+Uri: https://berse.ru/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.9.2
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\plugins\elementor-pro\assets\js\frontend.min.js
+Content Type: application/x-javascript
+
+Uri: https://berse.ru/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.9.2
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\plugins\elementor-pro\assets\js\webpack-pro.runtime.min.js
+Content Type: application/x-javascript
+
+Uri: https://berse.ru/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.0.1
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\plugins\elementor-pro\assets\lib\smartmenus\jquery.smartmenus.min.js
+Content Type: application/x-javascript
+
+Uri: https://berse.ru/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.9.2
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\plugins\elementor\assets\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: https://berse.ru/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.9.2
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/x-javascript
+
+Uri: https://berse.ru/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.9.2
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/x-javascript
+
+Uri: https://berse.ru/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.9.2
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/x-javascript
+
+Uri: https://berse.ru/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.9.2
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\plugins\elementor\assets\lib\animations\animations.min.css
+Content Type: text/css
+
+Uri: https://berse.ru/wp-content/plugins/elementor/assets/lib/e-gallery/css/e-gallery.min.css?ver=1.2.0
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\plugins\elementor\assets\lib\e-gallery\css\e-gallery.min.css
+Content Type: text/css
+
+Uri: https://berse.ru/wp-content/plugins/elementor/assets/lib/e-gallery/js/e-gallery.min.js?ver=1.2.0
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\plugins\elementor\assets\lib\e-gallery\js\e-gallery.min.js
+Content Type: application/x-javascript
+
+Uri: https://berse.ru/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.16.0
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.min.css
+Content Type: text/css
+
+Uri: https://berse.ru/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.16.0
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.eot
+Content Type: application/octet-stream
+
+Uri: https://berse.ru/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.16.0
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.svg
+Content Type: image/svg+xml
+
+Uri: https://berse.ru/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.16.0
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.ttf
+Content Type: application/octet-stream
+
+Uri: https://berse.ru/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.16.0
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff2
+Content Type: application/octet-stream
+
+Uri: https://berse.ru/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.16.0
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff
+Content Type: application/octet-stream
+
+Uri: https://berse.ru/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\plugins\elementor\assets\lib\font-awesome\css\fontawesome.min.css
+Content Type: text/css
+
+Uri: https://berse.ru/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\plugins\elementor\assets\lib\font-awesome\css\solid.min.css
+Content Type: text/css
+
+Uri: https://berse.ru/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.eot
+Content Type: application/octet-stream
+
+Uri: https://berse.ru/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot?
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900-1.eot
+Content Type: application/octet-stream
+
+Uri: https://berse.ru/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.svg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://berse.ru/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://berse.ru/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff
+Content Type: application/octet-stream
+
+Uri: https://berse.ru/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff2
+Content Type: application/octet-stream
+
+Uri: https://berse.ru/wp-content/plugins/elementor/assets/lib/jquery-numerator/jquery-numerator.min.js?ver=0.2.1
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\plugins\elementor\assets\lib\jquery-numerator\jquery-numerator.min.js
+Content Type: application/x-javascript
+
+Uri: https://berse.ru/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min.js
+Content Type: application/x-javascript
+
+Uri: https://berse.ru/wp-content/plugins/yamaps/js/img/placeholder.svg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\plugins\yamaps\js\img\placeholder.svg
+Content Type: image/svg+xml
+
+Uri: https://berse.ru/wp-content/themes/twentytwentyone/assets/css/print.css?ver=1.7
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\themes\twentytwentyone\assets\css\print.css
+Content Type: text/css
+
+Uri: https://berse.ru/wp-content/themes/twentytwentyone/assets/js/primary-navigation.js?ver=1.7
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\themes\twentytwentyone\assets\js\primary-navigation.js
+Content Type: application/x-javascript
+
+Uri: https://berse.ru/wp-content/themes/twentytwentyone/assets/js/responsive-embeds.js?ver=1.7
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\themes\twentytwentyone\assets\js\responsive-embeds.js
+Content Type: application/x-javascript
+
+Uri: https://berse.ru/wp-content/themes/twentytwentyone/style.css?ver=1.7
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\themes\twentytwentyone\style.css
+Content Type: text/css
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-1-1-1024x512.png
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-1-1-1024x512.png
+Content Type: image/png
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-1-1.png
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-1-1.png
+Content Type: image/png
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-1-2.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-1-2.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-1-3.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-1-3.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-1-4.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-1-4.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-1-5.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-1-5.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-1-6.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-1-6.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-1-7.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-1-7.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-1-8.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-1-8.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-1-9.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-1-9.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-10-1.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-10-1.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-10-150x150.png
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-10-150x150.png
+Content Type: image/png
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-10-2.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-10-2.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-10-3.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-10-3.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-10-300x300.png
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-10-300x300.png
+Content Type: image/png
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-10-4.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-10-4.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-10-5.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-10-5.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-10.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-10.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-10.png
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-10.png
+Content Type: image/png
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-11-1.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-11-1.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-11-150x150.png
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-11-150x150.png
+Content Type: image/png
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-11-2.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-11-2.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-11-3.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-11-3.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-11-300x300.png
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-11-300x300.png
+Content Type: image/png
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-11-4.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-11-4.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-11-5.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-11-5.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-11.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-11.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-11.png
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-11.png
+Content Type: image/png
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-12-1.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-12-1.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-12-2.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-12-2.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-12-3.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-12-3.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-12-4.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-12-4.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-12-5.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-12-5.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-12.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-12.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-13-1.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-13-1.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-13-2.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-13-2.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-13-3.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-13-3.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-13-4.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-13-4.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-13.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-13.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-14-1.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-14-1.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-14-2.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-14-2.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-14-3.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-14-3.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-14.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-14.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-15-1.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-15-1.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-15-150x150.png
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-15-150x150.png
+Content Type: image/png
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-15-2.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-15-2.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-15-3.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-15-3.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-15-300x300.png
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-15-300x300.png
+Content Type: image/png
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-15.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-15.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-15.png
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-15.png
+Content Type: image/png
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-16-1.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-16-1.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-16-2.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-16-2.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-16-3.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-16-3.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-16.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-16.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-17-1.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-17-1.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-17-2.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-17-2.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-17-3.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-17-3.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-17.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-17.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-18-1.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-18-1.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-18.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-18.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-19-1.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-19-1.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-19-1024x512.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-19-1024x512.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-19-scaled.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-19-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-2-10.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-2-10.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-2-2.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-2-2.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-2-3.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-2-3.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-2-4.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-2-4.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-2-5.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-2-5.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-2-6.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-2-6.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-2-7.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-2-7.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-2-8.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-2-8.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-2-9.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-2-9.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-20.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-20.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-21.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-21.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-22.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-22.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-24.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-24.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-25.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-25.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-26-1024x512.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-26-1024x512.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-26-scaled.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-26-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-27.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-27.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-28-1024x512.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-28-1024x512.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-28-scaled.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-28-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-29.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-29.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-3-1.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-3-1.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-3-2.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-3-2.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-3-3.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-3-3.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-3-4.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-3-4.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-3-5.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-3-5.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-3-6.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-3-6.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-3-7.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-3-7.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-3-8.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-3-8.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-3-9.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-3-9.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-30-1024x512.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-30-1024x512.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-30-scaled.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-30-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-31.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-31.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-32-1024x512.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-32-1024x512.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-32-scaled.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-32-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-34.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-34.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-35.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-35.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-4-1-scaled.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-4-1-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-4-10.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-4-10.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-4-2.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-4-2.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-4-3.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-4-3.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-4-4.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-4-4.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-4-5.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-4-5.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-4-7.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-4-7.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-4-8.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-4-8.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-4-9.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-4-9.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-5-1.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-5-1.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-5-150x150.png
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-5-150x150.png
+Content Type: image/png
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-5-2.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-5-2.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-5-3.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-5-3.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-5-300x300.png
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-5-300x300.png
+Content Type: image/png
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-5-4.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-5-4.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-5-5.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-5-5.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-5-6.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-5-6.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-5-7.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-5-7.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-5-8.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-5-8.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-5-9.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-5-9.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-5.png
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-5.png
+Content Type: image/png
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-6-1.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-6-1.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-6-150x150.png
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-6-150x150.png
+Content Type: image/png
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-6-2.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-6-2.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-6-3.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-6-3.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-6-300x300.png
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-6-300x300.png
+Content Type: image/png
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-6-4.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-6-4.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-6-5.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-6-5.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-6-6.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-6-6.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-6-7.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-6-7.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-6-8.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-6-8.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-6-9.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-6-9.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-6-scaled.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-6-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-6.png
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-6.png
+Content Type: image/png
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-7-1.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-7-1.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-7-150x150.png
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-7-150x150.png
+Content Type: image/png
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-7-2.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-7-2.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-7-3.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-7-3.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-7-300x300.png
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-7-300x300.png
+Content Type: image/png
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-7-4.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-7-4.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-7-5.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-7-5.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-7-6.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-7-6.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-7-7.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-7-7.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-7-8.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-7-8.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-7.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-7.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-7.png
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-7.png
+Content Type: image/png
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-8-1.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-8-1.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-8-150x150.png
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-8-150x150.png
+Content Type: image/png
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-8-2.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-8-2.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-8-3.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-8-3.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-8-300x300.png
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-8-300x300.png
+Content Type: image/png
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-8-4.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-8-4.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-8-5.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-8-5.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-8.png
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-8.png
+Content Type: image/png
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-9-1.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-9-1.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-9-150x150.png
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-9-150x150.png
+Content Type: image/png
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-9-2.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-9-2.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-9-3.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-9-3.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-9-300x300.png
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-9-300x300.png
+Content Type: image/png
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-9-4.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-9-4.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-9-5.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-9-5.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-9.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-9.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Дизайн-без-названия-9.png
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Дизайн-без-названия-9.png
+Content Type: image/png
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Скриншот-13-02-2023-221710-1024x478.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Скриншот-13-02-2023-221710-1024x478.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Скриншот-13-02-2023-221710.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Скриншот-13-02-2023-221710.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Скриншот-14-02-2023-015435.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Скриншот-14-02-2023-015435.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Скриншот-14-02-2023-020740-1024x482.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Скриншот-14-02-2023-020740-1024x482.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Скриншот-14-02-2023-020740.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Скриншот-14-02-2023-020740.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/cropped-Le-berse-1-180x180.png
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\cropped-Le-berse-1-180x180.png
+Content Type: image/png
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/cropped-Le-berse-1-192x192.png
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\cropped-Le-berse-1-192x192.png
+Content Type: image/png
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/cropped-Le-berse-1-32x32.png
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\cropped-Le-berse-1-32x32.png
+Content Type: image/png
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/kvadrat2-150x150.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\kvadrat2-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/kvadrat2-300x300.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\kvadrat2-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/kvadrat2.jpg
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\kvadrat2.jpg
+Content Type: image/jpeg
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Le-berse-2-150x150.png
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Le-berse-2-150x150.png
+Content Type: image/png
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Le-berse-2-300x300.png
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Le-berse-2-300x300.png
+Content Type: image/png
+
+Uri: https://berse.ru/wp-content/uploads/2023/02/Le-berse-2.png
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\2023\02\Le-berse-2.png
+Content Type: image/png
+
+Uri: https://berse.ru/wp-content/uploads/elementor/css/global.css?ver=1675588994
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\elementor\css\global.css
+Content Type: text/css
+
+Uri: https://berse.ru/wp-content/uploads/elementor/css/post-264.css?ver=1676307994
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\elementor\css\post-264.css
+Content Type: text/css
+
+Uri: https://berse.ru/wp-content/uploads/elementor/css/post-325.css?ver=1676320798
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\elementor\css\post-325.css
+Content Type: text/css
+
+Uri: https://berse.ru/wp-content/uploads/elementor/css/post-379.css?ver=1676322504
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\elementor\css\post-379.css
+Content Type: text/css
+
+Uri: https://berse.ru/wp-content/uploads/elementor/css/post-425.css?ver=1676324703
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\elementor\css\post-425.css
+Content Type: text/css
+
+Uri: https://berse.ru/wp-content/uploads/elementor/css/post-478.css?ver=1676329323
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\elementor\css\post-478.css
+Content Type: text/css
+
+Uri: https://berse.ru/wp-content/uploads/elementor/css/post-505.css?ver=1676327959
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\elementor\css\post-505.css
+Content Type: text/css
+
+Uri: https://berse.ru/wp-content/uploads/elementor/css/post-540.css?ver=1676328317
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\elementor\css\post-540.css
+Content Type: text/css
+
+Uri: https://berse.ru/wp-content/uploads/elementor/css/post-583.css?ver=1676329324
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\elementor\css\post-583.css
+Content Type: text/css
+
+Uri: https://berse.ru/wp-content/uploads/elementor/css/post-6.css?ver=1675588974
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\elementor\css\post-6.css
+Content Type: text/css
+
+Uri: https://berse.ru/wp-content/uploads/elementor/css/post-614.css?ver=1676329581
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\elementor\css\post-614.css
+Content Type: text/css
+
+Uri: https://berse.ru/wp-content/uploads/elementor/css/post-638.css?ver=1676330741
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\elementor\css\post-638.css
+Content Type: text/css
+
+Uri: https://berse.ru/wp-content/uploads/elementor/css/post-8.css?ver=1676360697
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-content\uploads\elementor\css\post-8.css
+Content Type: text/css
+
+Uri: https://berse.ru/wp-includes/css/classic-themes.min.css?ver=6.2.2
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-includes\css\classic-themes.min.css
+Content Type: text/css
+
+Uri: https://berse.ru/wp-includes/css/dist/block-library/style.min.css?ver=6.2.2
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://berse.ru/wp-includes/js/dist/hooks.min.js?ver=4169d3cf8e8d95a3d6d5
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-includes\js\dist\hooks.min.js
+Content Type: application/x-javascript
+
+Uri: https://berse.ru/wp-includes/js/dist/i18n.min.js?ver=9e794f35a71bb98672ae
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-includes\js\dist\i18n.min.js
+Content Type: application/x-javascript
+
+Uri: https://berse.ru/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.11
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: application/x-javascript
+
+Uri: https://berse.ru/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-includes\js\dist\vendor\wp-polyfill-inert.min.js
+Content Type: application/x-javascript
+
+Uri: https://berse.ru/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/x-javascript
+
+Uri: https://berse.ru/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.0
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/x-javascript
+
+Uri: https://berse.ru/wp-includes/js/jquery/jquery.min.js?ver=3.6.4
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-includes\js\jquery\jquery.min.js
+Content Type: application/x-javascript
+
+Uri: https://berse.ru/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/x-javascript
+
+Uri: https://berse.ru/wp-includes/wlwmanifest.xml
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-includes\wlwmanifest.xml
+Content Type: text/xml
+
+Uri: https://berse.ru/wp-json/
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://berse.ru/wp-json/oembed/1.0/embed?url=https:%2F%2Fberse.ru%2F
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://berse.ru/wp-json/oembed/1.0/embed?url=https:%2F%2Fberse.ru%2F%25d0%25b4%25d0%25b8%25d0%25b7%25d0%25b0%25d0%25b9%25d0%25bd%25d0%25b5-%25d0%25b8%25d0%25bd%25d1%2582%25d0%25b5%25d1%2580%25d1%258c%25d0%25b5%25d1%2580%25d0%25b0-%25d0%25ba%25d0%25b2%25d0%25b0%25d1%2580%25d1%2582%25d0%25b8%25d1%2580%25d1%258b-103-%25d0%25bc%25c2%25b2%2F
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: https://berse.ru/wp-json/oembed/1.0/embed?url=https:%2F%2Fberse.ru%2F%25d0%25b4%25d0%25b8%25d0%25b7%25d0%25b0%25d0%25b9%25d0%25bd%25d0%25b5-%25d0%25b8%25d0%25bd%25d1%2582%25d0%25b5%25d1%2580%25d1%258c%25d0%25b5%25d1%2580%25d0%25b0-%25d0%25ba%25d0%25b2%25d0%25b0%25d1%2580%25d1%2582%25d0%25b8%25d1%2580%25d1%258b-103-%25d0%25bc%25c2%25b2%2F&format=xml
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: https://berse.ru/wp-json/oembed/1.0/embed?url=https:%2F%2Fberse.ru%2F%25d0%25b4%25d0%25b8%25d0%25b7%25d0%25b0%25d0%25b9%25d0%25bd-%25d0%25b4%25d0%25b2%25d1%2583%25d1%2585%25d0%25ba%25d0%25be%25d0%25bc%25d0%25bd%25d0%25b0%25d1%2582%25d0%25bd%25d0%25be%25d0%25b9-%25d0%25ba%25d0%25b2%25d0%25b0%25d1%2580%25d1%2582%25d0%25b8%25d1%2580%25d1%258b-113-%25d0%25bc%25c2%25b2%2F
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://berse.ru/wp-json/oembed/1.0/embed?url=https:%2F%2Fberse.ru%2F%25d0%25b4%25d0%25b8%25d0%25b7%25d0%25b0%25d0%25b9%25d0%25bd-%25d0%25b4%25d0%25b2%25d1%2583%25d1%2585%25d0%25ba%25d0%25be%25d0%25bc%25d0%25bd%25d0%25b0%25d1%2582%25d0%25bd%25d0%25be%25d0%25b9-%25d0%25ba%25d0%25b2%25d0%25b0%25d1%2580%25d1%2582%25d0%25b8%25d1%2580%25d1%258b-113-%25d0%25bc%25c2%25b2%2F&format=xml
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://berse.ru/wp-json/oembed/1.0/embed?url=https:%2F%2Fberse.ru%2F%25d0%25b4%25d0%25b8%25d0%25b7%25d0%25b0%25d0%25b9%25d0%25bd-%25d0%25b8%25d0%25bd%25d1%2582%25d0%25b5%25d1%2580%25d1%258c%25d0%25b5%25d1%2580%25d0%25b0-%25d0%25ba%25d0%25be%25d1%2582%25d1%2582%25d0%25b5%25d0%25b4%25d0%25b6%25d0%25b0-550-%25d0%25bc%25c2%25b2%2F
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://berse.ru/wp-json/oembed/1.0/embed?url=https:%2F%2Fberse.ru%2F%25d0%25b4%25d0%25b8%25d0%25b7%25d0%25b0%25d0%25b9%25d0%25bd-%25d0%25b8%25d0%25bd%25d1%2582%25d0%25b5%25d1%2580%25d1%258c%25d0%25b5%25d1%2580%25d0%25b0-%25d0%25ba%25d0%25be%25d1%2582%25d1%2582%25d0%25b5%25d0%25b4%25d0%25b6%25d0%25b0-550-%25d0%25bc%25c2%25b2%2F&format=xml
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://berse.ru/wp-json/oembed/1.0/embed?url=https:%2F%2Fberse.ru%2F%25d0%25b4%25d0%25b8%25d0%25b7%25d0%25b0%25d0%25b9%25d0%25bd-%25d0%25ba%25d0%25b2%25d0%25b0%25d1%2580%25d1%2582%25d0%25b8%25d1%2580%25d1%258b-%25d1%2581%25d0%25be-%25d1%2581%25d0%25bb%25d0%25be%25d0%25b6%25d0%25bd%25d0%25be%25d0%25b9-%25d0%25bf%25d0%25bb%25d0%25b0%25d0%25bd%25d0%25b8%25d1%2580%25d0%25be%25d0%25b2%25d0%25ba%2F
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: https://berse.ru/wp-json/oembed/1.0/embed?url=https:%2F%2Fberse.ru%2F%25d0%25b4%25d0%25b8%25d0%25b7%25d0%25b0%25d0%25b9%25d0%25bd-%25d0%25ba%25d0%25b2%25d0%25b0%25d1%2580%25d1%2582%25d0%25b8%25d1%2580%25d1%258b-%25d1%2581%25d0%25be-%25d1%2581%25d0%25bb%25d0%25be%25d0%25b6%25d0%25bd%25d0%25be%25d0%25b9-%25d0%25bf%25d0%25bb%25d0%25b0%25d0%25bd%25d0%25b8%25d1%2580%25d0%25be%25d0%25b2%25d0%25ba%2F&format=xml
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: https://berse.ru/wp-json/oembed/1.0/embed?url=https:%2F%2Fberse.ru%2F%25d0%25b4%25d0%25b8%25d0%25b7%25d0%25b0%25d0%25b9%25d0%25bd-%25d0%25ba%25d0%25b2%25d0%25b0%25d1%2580%25d1%2582%25d0%25b8%25d1%2580%25d1%258b-%25d1%2581-%25d1%2582%25d0%25b5%25d1%2580%25d1%2580%25d0%25b0%25d1%2581%25d0%25be%25d0%25b9-128-%25d0%25bc%25c2%25b2%2F
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://berse.ru/wp-json/oembed/1.0/embed?url=https:%2F%2Fberse.ru%2F%25d0%25b4%25d0%25b8%25d0%25b7%25d0%25b0%25d0%25b9%25d0%25bd-%25d0%25ba%25d0%25b2%25d0%25b0%25d1%2580%25d1%2582%25d0%25b8%25d1%2580%25d1%258b-%25d1%2581-%25d1%2582%25d0%25b5%25d1%2580%25d1%2580%25d0%25b0%25d1%2581%25d0%25be%25d0%25b9-128-%25d0%25bc%25c2%25b2%2F&format=xml
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://berse.ru/wp-json/oembed/1.0/embed?url=https:%2F%2Fberse.ru%2F%25d0%25b4%25d0%25b8%25d0%25b7%25d0%25b0%25d0%25b9%25d0%25bd-%25d1%2582%25d1%2580%25d0%25b5%25d1%2585%25d0%25ba%25d0%25be%25d0%25bc%25d0%25bd%25d0%25b0%25d1%2582%25d0%25bd%25d0%25be%25d0%25b9-%25d0%25ba%25d0%25b2%25d0%25b0%25d1%2580%25d1%2582%25d0%25b8%25d1%2580%25d1%258b-1022-%25d0%25bc%25c2%25b2%2F
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://berse.ru/wp-json/oembed/1.0/embed?url=https:%2F%2Fberse.ru%2F%25d0%25b4%25d0%25b8%25d0%25b7%25d0%25b0%25d0%25b9%25d0%25bd-%25d1%2582%25d1%2580%25d0%25b5%25d1%2585%25d0%25ba%25d0%25be%25d0%25bc%25d0%25bd%25d0%25b0%25d1%2582%25d0%25bd%25d0%25be%25d0%25b9-%25d0%25ba%25d0%25b2%25d0%25b0%25d1%2580%25d1%2582%25d0%25b8%25d1%2580%25d1%258b-1022-%25d0%25bc%25c2%25b2%2F&format=xml
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://berse.ru/wp-json/oembed/1.0/embed?url=https:%2F%2Fberse.ru%2F%25d0%25b8%25d0%25bd%25d1%2582%25d0%25b5%25d1%2580%25d1%258c%25d0%25b5%25d1%2580-%25d1%2582%25d1%2580%25d0%25b5%25d1%2585%25d0%25ba%25d0%25be%25d0%25bc%25d0%25bd%25d0%25b0%25d1%2582%25d0%25bd%25d0%25be%25d0%25b9-%25d0%25ba%25d0%25b2%25d0%25b0%25d1%2580%25d1%2582%25d0%25b8%25d1%2580%25d1%258b-103-%25d0%25bc%25c2%25b2%2F
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://berse.ru/wp-json/oembed/1.0/embed?url=https:%2F%2Fberse.ru%2F%25d0%25b8%25d0%25bd%25d1%2582%25d0%25b5%25d1%2580%25d1%258c%25d0%25b5%25d1%2580-%25d1%2582%25d1%2580%25d0%25b5%25d1%2585%25d0%25ba%25d0%25be%25d0%25bc%25d0%25bd%25d0%25b0%25d1%2582%25d0%25bd%25d0%25be%25d0%25b9-%25d0%25ba%25d0%25b2%25d0%25b0%25d1%2580%25d1%2582%25d0%25b8%25d1%2580%25d1%258b-103-%25d0%25bc%25c2%25b2%2F&format=xml
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://berse.ru/wp-json/oembed/1.0/embed?url=https:%2F%2Fberse.ru%2F%25d0%25b8%25d0%25bd%25d1%2582%25d0%25b5%25d1%2580%25d1%258c%25d0%25b5%25d1%2580-%25d1%2582%25d1%2580%25d0%25b5%25d1%2585%25d0%25ba%25d0%25be%25d0%25bc%25d0%25bd%25d0%25b0%25d1%2582%25d0%25bd%25d0%25be%25d0%25b9-%25d0%25ba%25d0%25b2%25d0%25b0%25d1%2580%25d1%2582%25d0%25b8%25d1%2580%25d1%258b-1055-%25d0%25bc%25c2%25b2%2F
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: https://berse.ru/wp-json/oembed/1.0/embed?url=https:%2F%2Fberse.ru%2F%25d0%25b8%25d0%25bd%25d1%2582%25d0%25b5%25d1%2580%25d1%258c%25d0%25b5%25d1%2580-%25d1%2582%25d1%2580%25d0%25b5%25d1%2585%25d0%25ba%25d0%25be%25d0%25bc%25d0%25bd%25d0%25b0%25d1%2582%25d0%25bd%25d0%25be%25d0%25b9-%25d0%25ba%25d0%25b2%25d0%25b0%25d1%2580%25d1%2582%25d0%25b8%25d1%2580%25d1%258b-1055-%25d0%25bc%25c2%25b2%2F&format=xml
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: https://berse.ru/wp-json/oembed/1.0/embed?url=https:%2F%2Fberse.ru%2F%25d0%25b8%25d0%25bd%25d1%2582%25d0%25b5%25d1%2580%25d1%258c%25d0%25b5%25d1%2580-%25d1%2582%25d1%2580%25d0%25b5%25d1%2585%25d0%25ba%25d0%25be%25d0%25bc%25d0%25bd%25d0%25b0%25d1%2582%25d0%25bd%25d0%25be%25d0%25b9-%25d0%25ba%25d0%25b2%25d0%25b0%25d1%2580%25d1%2582%25d0%25b8%25d1%2580%25d1%258b-743-%25d0%25bc%25c2%25b2%2F
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: https://berse.ru/wp-json/oembed/1.0/embed?url=https:%2F%2Fberse.ru%2F%25d0%25b8%25d0%25bd%25d1%2582%25d0%25b5%25d1%2580%25d1%258c%25d0%25b5%25d1%2580-%25d1%2582%25d1%2580%25d0%25b5%25d1%2585%25d0%25ba%25d0%25be%25d0%25bc%25d0%25bd%25d0%25b0%25d1%2582%25d0%25bd%25d0%25be%25d0%25b9-%25d0%25ba%25d0%25b2%25d0%25b0%25d1%2580%25d1%2582%25d0%25b8%25d1%2580%25d1%258b-743-%25d0%25bc%25c2%25b2%2F&format=xml
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: https://berse.ru/wp-json/oembed/1.0/embed?url=https:%2F%2Fberse.ru%2F&format=xml
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://berse.ru/wp-json/wp/v2/pages/325
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-json\wp\v2\pages\325
+Content Type: application/json
+
+Uri: https://berse.ru/wp-json/wp/v2/pages/379
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-json\wp\v2\pages\379
+Content Type: application/json
+
+Uri: https://berse.ru/wp-json/wp/v2/pages/425
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-json\wp\v2\pages\425
+Content Type: application/json
+
+Uri: https://berse.ru/wp-json/wp/v2/pages/478
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-json\wp\v2\pages\478
+Content Type: application/json
+
+Uri: https://berse.ru/wp-json/wp/v2/pages/505
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-json\wp\v2\pages\505
+Content Type: application/json
+
+Uri: https://berse.ru/wp-json/wp/v2/pages/540
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-json\wp\v2\pages\540
+Content Type: application/json
+
+Uri: https://berse.ru/wp-json/wp/v2/pages/583
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-json\wp\v2\pages\583
+Content Type: application/json
+
+Uri: https://berse.ru/wp-json/wp/v2/pages/614
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-json\wp\v2\pages\614
+Content Type: application/json
+
+Uri: https://berse.ru/wp-json/wp/v2/pages/638
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-json\wp\v2\pages\638
+Content Type: application/json
+
+Uri: https://berse.ru/wp-json/wp/v2/pages/8
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\wp-json\wp\v2\pages\8
+Content Type: application/json
+
+Uri: https://fonts.googleapis.com/css?family=Montserrat:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Prata:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&subset=cyrillic&ver=6.2.2
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Cormorant:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&subset=cyrillic&ver=6.2.2
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/cormorant/v21/H4c0BXOCl9bbnla_nHIq6oGzilJm9otsA9kQ9fda6yWv.ttf
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\s\cormorant\v21\H4c0BXOCl9bbnla_nHIq6oGzilJm9otsA9kQ9fda6yWv.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorant/v21/H4c0BXOCl9bbnla_nHIq6oGzilJm9otsA9kQdfBa6yWv.ttf
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\s\cormorant\v21\H4c0BXOCl9bbnla_nHIq6oGzilJm9otsA9kQdfBa6yWv.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorant/v21/H4c0BXOCl9bbnla_nHIq6oGzilJm9otsA9kQmfda6yWv.ttf
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\s\cormorant\v21\H4c0BXOCl9bbnla_nHIq6oGzilJm9otsA9kQmfda6yWv.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorant/v21/H4c0BXOCl9bbnla_nHIq6oGzilJm9otsA9kQq_da6yWv.ttf
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\s\cormorant\v21\H4c0BXOCl9bbnla_nHIq6oGzilJm9otsA9kQq_da6yWv.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorant/v21/H4c0BXOCl9bbnla_nHIq6oGzilJm9otsA9kQTPBa6yWv.ttf
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\s\cormorant\v21\H4c0BXOCl9bbnla_nHIq6oGzilJm9otsA9kQTPBa6yWv.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorant/v21/H4c2BXOCl9bbnla_nHIA47NMUjsNbCVrFhFTc7dq6A.ttf
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\s\cormorant\v21\H4c2BXOCl9bbnla_nHIA47NMUjsNbCVrFhFTc7dq6A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorant/v21/H4c2BXOCl9bbnla_nHIA47NMUjsNbCVrFiNTc7dq6A.ttf
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\s\cormorant\v21\H4c2BXOCl9bbnla_nHIA47NMUjsNbCVrFiNTc7dq6A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorant/v21/H4c2BXOCl9bbnla_nHIA47NMUjsNbCVrFk9Tc7dq6A.ttf
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\s\cormorant\v21\H4c2BXOCl9bbnla_nHIA47NMUjsNbCVrFk9Tc7dq6A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorant/v21/H4c2BXOCl9bbnla_nHIA47NMUjsNbCVrFs9Uc7dq6A.ttf
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\s\cormorant\v21\H4c2BXOCl9bbnla_nHIA47NMUjsNbCVrFs9Uc7dq6A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorant/v21/H4c2BXOCl9bbnla_nHIA47NMUjsNbCVrFvZUc7dq6A.ttf
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\s\cormorant\v21\H4c2BXOCl9bbnla_nHIA47NMUjsNbCVrFvZUc7dq6A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXx0ow.ttf
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\s\montserrat\v25\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXx0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6WXx0ow.ttf
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\s\montserrat\v25\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6WXx0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXx0ow.ttf
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\s\montserrat\v25\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXx0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8WXx0ow.ttf
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\s\montserrat\v25\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8WXx0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXx0ow.ttf
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\s\montserrat\v25\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXx0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16WXx0ow.ttf
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\s\montserrat\v25\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16WXx0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6WXx0ow.ttf
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\s\montserrat\v25\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6WXx0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9WXx0ow.ttf
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\s\montserrat\v25\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9WXx0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9WXx0ow.ttf
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\s\montserrat\v25\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9WXx0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw9aX8.ttf
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw9aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw9aX8.ttf
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw9aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw9aX8.ttf
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw9aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw9aX8.ttf
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw9aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w9aX8.ttf
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w9aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w9aX8.ttf
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w9aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w9aX8.ttf
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w9aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw9aX8.ttf
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw9aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w9aX8.ttf
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w9aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/prata/v18/6xKhdSpbNNCT-sWLCms.ttf
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\s\prata\v18\6xKhdSpbNNCT-sWLCms.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOiCnqEu92Fr1Mu51QrEzQdKg.ttf
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\s\roboto\v30\KFOiCnqEu92Fr1Mu51QrEzQdKg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc-CsE.ttf
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\s\roboto\v30\KFOjCnqEu92Fr1Mu51S7ACc-CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc-CsE.ttf
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjASc-CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TLBCc-CsE.ttf
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\s\roboto\v30\KFOjCnqEu92Fr1Mu51TLBCc-CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic-CsE.ttf
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\s\roboto\v30\KFOjCnqEu92Fr1Mu51TzBic-CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgVxMIzc.ttf
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\s\roboto\v30\KFOkCnqEu92Fr1MmgVxMIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xMIzc.ttf
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\s\roboto\v30\KFOkCnqEu92Fr1Mu51xMIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fABc9.ttf
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fABc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fABc9.ttf
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fABc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfABc9.ttf
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfABc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfABc9.ttf
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfABc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu5mxP.ttf
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\s\roboto\v30\KFOmCnqEu92Fr1Mu5mxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v25/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSma2Rm.ttf
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\s\robotoslab\v25\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSma2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v25/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Oma2Rm.ttf
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\s\robotoslab\v25\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Oma2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v25/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOma2Rm.ttf
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\s\robotoslab\v25\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOma2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v25/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISma2Rm.ttf
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\s\robotoslab\v25\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISma2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v25/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISma2Rm.ttf
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\s\robotoslab\v25\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISma2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v25/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWma2Rm.ttf
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\s\robotoslab\v25\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWma2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v25/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOma2Rm.ttf
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\s\robotoslab\v25\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOma2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v25/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOma2Rm.ttf
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\s\robotoslab\v25\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOma2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v25/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSma2Rm.ttf
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\s\robotoslab\v25\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSma2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://library.elementor.com/pro-popups-library/wp-content/uploads/sites/150/2021/03/blog-popup-bg-pat.png
+File Name: C:\Users\пк\Desktop\проекты в процессе\berse.ru\pro-popups-library\wp-content\uploads\sites\150\2021\03\blog-popup-bg-pat.png
+Content Type: image/png
+
