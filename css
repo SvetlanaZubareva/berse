@@ -215,3 +215,8 @@
   font-display: swap;
   src: url(s/robotoslab/v25/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOma2Rm.ttf) format('truetype');
 }
+.elementor-section 
+.elementor-container{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
