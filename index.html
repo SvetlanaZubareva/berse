@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+</head>
+<body>
+    <!-- <style>
+        body {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  font: 400 1em/1.2em Arial, Tahoma, sans-serif;
+  color: #fff;
+}
+
+header,
+footer {
+  padding: 200px 0;
+  background: #222;
+}
+
+h1 {
+  color: #ffe206;
+  font-weight: 400;
+  text-transform: uppercase;
+}
+
+h2 {
+  color: #f2f2f2;
+  font-weight: 400;
+  text-transform: lowercase;
+}
+
+article {
+  background: #ffe206;
+  padding: 50px;
+  color: #3d3d3d;
+}
+
+.bl {
+  float: left;
+  width: 150px;
+  margin: 0 15px;
+  background: #ffec5c;
+  padding: 50px 10px;
+}
+
+.mid {
+  width: 1000px;
+  margin: 0 auto;
+  height: 800px;
+}
+
+.number {
+  font-size: 2em;
+  padding: 0 0 25px;
+  font-weight: bold;
+  opacity: 0;
+}
+
+.viz {
+  opacity: 1;
+  transition: 1s;
+}
+
+footer {
+  padding: 200px 0 2000px;
+}
+
+.clearfix:before,
+.clearfix:after {
+  content: " ";
+  /* 1 */
+  display: table;
+  /* 2 */
+}
+
+.clearfix:after {
+  clear: both;
+}
+
+    </style> -->
+    <style>
+        body{
+            height: 1000px;;
+        }
+    </style>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script>
+        var time = 2,
+  cc = 1;
+$(window).scroll(function() {
+  $('#counter').each(function() {
+    var
+      cPos = $(this).offset().top,
+      topWindow = $(window).scrollTop();
+    if (cPos < topWindow + 200) {
+      if (cc < 2) {
+        $(".number").addClass("viz");
+        $('div').each(function() {
+          var
+            i = 1,
+            num = $(this).data('num'),
+            step = 1000 * time / num,
+            that = $(this),
+            int = setInterval(function() {
+              if (i <= num) {
+                that.html(i);
+              } else {
+                cc = cc + 2;
+                clearInterval(int);
+              }
+              i++;
+            }, step);
+        });
+      }
+    }
+  });
+});
+
+    </script>
+    <header>
+        <div class="mid">
+          <h1>Счетчик чисел при перемотке</h1>
+          <h2>&darr;&nbsp;&nbsp; Делайте перемотку вниз &nbsp;&nbsp;&darr;</h2>
+        </div>
+      </header>
+      <article>
+        <div class="mid clearfix">
+          <div id="counter">
+      
+            <div class="bl">
+              <div data-num="10" class="number">0</div>
+              <div class="text">лет на рынке</div>
+            </div>
+            <div class="bl">
+              <div data-num="319" class="number">0</div>
+              <div class="text">клиентов</div>
+            </div>
+            <div class="bl">
+              <div data-num="5" class="number">0</div>
+              <div class="text">лет гарантии</div>
+            </div>
+            <div class="bl">
+              <div data-num="400" class="number">0</div>
+              <div class="text">успешных проектов</div>
+            </div>
+            <div class="bl">
+              <div data-num="27" class="number">0</div>
+              <div class="text">человек в команде</div>
+            </div>
+      
+          </div>
+        </div>
+      </article>
+      <footer>
+        <div class="mid">
+          <div class="copy">
+            2077 &copy; Кибернетический концерн "ПУПС"
+          </div>
+        </div>
+      </footer>
+      
+</body>
+</html>

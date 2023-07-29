@@ -131,3 +131,8 @@
   font-display: swap;
   src: url(s/prata/v18/6xKhdSpbNNCT-sWLCms.ttf) format('truetype');
 }
+.elementor-8 .elementor-element.elementor-element-9097227 > .elementor-background-overlay {
+  background-color: #000000;
+  opacity: 1;
+  transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
